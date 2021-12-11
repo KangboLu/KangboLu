@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kangbo Lu
 
-🔭 I’m a Data Scientist.  
+🔭 I’m a Data Scientist. I have a master degree of Data Science and Bachelor degree of Computer Science.
 🌱 I’m currently working on Neo4j and Graph Machine Learning.  
 📫 How to reach me: 
 <p>
