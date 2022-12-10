@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kangbo Lu
 
-🔭 I’m a Data Scientist and a Music Producer. 
+🔭 I’m a Data Scientist and a Music Producer.   
 📘 I have a Master degree of Data Science and a Bachelor degree of Computer Science.  
 🌱 I’m currently working on Neo4j and Graph Machine Learning.  
 📫 How to reach me: 
