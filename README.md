@@ -1,9 +1,11 @@
 ### Hi there 👋 I am Kangbo Lu
 
+After working as a data strategist, a project manager and a data product manager,  
+I wanna take a big big break from all the works and rethink about my life. I will be back!!!  
 🔭 I’m a Data Scientist and a Music Producer.   
 📘 I have a Master degree of Data Science and a Bachelor degree of Computer Science.  
 🌱 I’m currently working on Neo4j and Graph Machine Learning.  
-📫 How to reach me: 
+📫 How to reach me (Not Gonna Work): 
 <p>
   <a href="https://www.kaggle.com/agilesifaka" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-blue?&style=flat-square&logoColor=white" />
